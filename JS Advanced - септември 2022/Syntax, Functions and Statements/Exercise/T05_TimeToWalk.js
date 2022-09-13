@@ -6,7 +6,7 @@ function timeToWalk(steps, footprint, speed){
 
     let timeInMin = Math.floor(time / 60);
     //let timeInSec = Math.floor(time - (timeInMin * 60));
-    let timeInSec = (time - (timeInMin * 60)).toFixed(0);
+    let timeInSec = Number((time - (timeInMin * 60)).toFixed(0));
     let timeInH = Math.floor(time / 3600);
     timeInMin += res;
     timeInH += Math.floor(timeInH / 60);
