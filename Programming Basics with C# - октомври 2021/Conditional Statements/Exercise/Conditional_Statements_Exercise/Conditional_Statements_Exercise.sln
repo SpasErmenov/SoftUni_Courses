@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01. Sum Seconds", "Conditional_Statements_Exercise\T01. Sum Seconds.csproj", "{43065C8B-A337-46D9-8458-3ED5949C9889}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Bonus Score", "T02. Bonus Score\T02. Bonus Score.csproj", "{0A700AFE-48D3-4C03-A07A-D34954479A6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{43065C8B-A337-46D9-8458-3ED5949C9889}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43065C8B-A337-46D9-8458-3ED5949C9889}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43065C8B-A337-46D9-8458-3ED5949C9889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A700AFE-48D3-4C03-A07A-D34954479A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A700AFE-48D3-4C03-A07A-D34954479A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A700AFE-48D3-4C03-A07A-D34954479A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A700AFE-48D3-4C03-A07A-D34954479A6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

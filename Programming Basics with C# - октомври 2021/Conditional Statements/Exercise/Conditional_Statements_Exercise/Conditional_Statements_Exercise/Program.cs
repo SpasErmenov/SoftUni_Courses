@@ -12,8 +12,6 @@ namespace T01._Sum_Seconds
 
             int sec = firstTime + secondTime + thirdTime;
 
-            //int sec = int.Parse(Console.ReadLine());
-
             int cqlaMin = sec / 60;
             int ostSec = sec % 60;
 
