@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06. Operations Between Num
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07. Hotel Room", "T07. Hotel Room\T07. Hotel Room.csproj", "{2A9E6183-1E38-4798-BA7A-87CA5EB67DFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08. On Time for the Exam", "T08. On Time for the Exam\T08. On Time for the Exam.csproj", "{6EE1FE6A-DD03-492F-B2B9-1FDCDE4E09F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2A9E6183-1E38-4798-BA7A-87CA5EB67DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A9E6183-1E38-4798-BA7A-87CA5EB67DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A9E6183-1E38-4798-BA7A-87CA5EB67DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE1FE6A-DD03-492F-B2B9-1FDCDE4E09F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE1FE6A-DD03-492F-B2B9-1FDCDE4E09F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE1FE6A-DD03-492F-B2B9-1FDCDE4E09F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE1FE6A-DD03-492F-B2B9-1FDCDE4E09F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
