@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04. Walking", "T04. Walkin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05. Coins", "T05. Coins\T05. Coins.csproj", "{53007DAD-9742-4622-BD96-F8D47D581D52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06. Cake", "T06. Cake\T06. Cake.csproj", "{89F4588F-EC9B-4D8F-B8E3-2D7BDADADB68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{53007DAD-9742-4622-BD96-F8D47D581D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53007DAD-9742-4622-BD96-F8D47D581D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53007DAD-9742-4622-BD96-F8D47D581D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F4588F-EC9B-4D8F-B8E3-2D7BDADADB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F4588F-EC9B-4D8F-B8E3-2D7BDADADB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F4588F-EC9B-4D8F-B8E3-2D7BDADADB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F4588F-EC9B-4D8F-B8E3-2D7BDADADB68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
