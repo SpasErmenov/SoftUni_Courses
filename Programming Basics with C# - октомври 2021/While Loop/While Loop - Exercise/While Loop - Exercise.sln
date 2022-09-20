@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While Loop - Exercise", "While Loop - Exercise\While Loop - Exercise.csproj", "{3D866584-B527-489B-BAB8-B2B8C61599B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Exam Preparation", "T02. Exam Preparation\T02. Exam Preparation.csproj", "{225853F8-8558-4FD7-86B6-DBAA39A9FF73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3D866584-B527-489B-BAB8-B2B8C61599B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D866584-B527-489B-BAB8-B2B8C61599B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D866584-B527-489B-BAB8-B2B8C61599B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{225853F8-8558-4FD7-86B6-DBAA39A9FF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225853F8-8558-4FD7-86B6-DBAA39A9FF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225853F8-8558-4FD7-86B6-DBAA39A9FF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225853F8-8558-4FD7-86B6-DBAA39A9FF73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
