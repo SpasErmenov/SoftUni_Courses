@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Nums 1 to 10", "T02. N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03. Rectangle Area", "T03. Rectangle Area\T03. Rectangle Area.csproj", "{78167E36-D22A-40C7-929D-259F0F263AED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04. Inches to Centimeters", "T04. Inches to Centimeters\T04. Inches to Centimeters.csproj", "{AAA458D1-91F2-475D-9818-8D468B3DEB40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{78167E36-D22A-40C7-929D-259F0F263AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78167E36-D22A-40C7-929D-259F0F263AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78167E36-D22A-40C7-929D-259F0F263AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA458D1-91F2-475D-9818-8D468B3DEB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA458D1-91F2-475D-9818-8D468B3DEB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA458D1-91F2-475D-9818-8D468B3DEB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA458D1-91F2-475D-9818-8D468B3DEB40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
