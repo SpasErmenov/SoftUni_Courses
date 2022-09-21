@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05. Greeting by Name", "T0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06. Concatenate Data", "T06. Concatenate Data\T06. Concatenate Data.csproj", "{36F56358-B96D-4106-8D5B-EC1663EC94AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07. Projects Creation", "T07. Projects Creation\T07. Projects Creation.csproj", "{593643F8-DF44-492C-98F6-EA87C13974C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{36F56358-B96D-4106-8D5B-EC1663EC94AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36F56358-B96D-4106-8D5B-EC1663EC94AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36F56358-B96D-4106-8D5B-EC1663EC94AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593643F8-DF44-492C-98F6-EA87C13974C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593643F8-DF44-492C-98F6-EA87C13974C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593643F8-DF44-492C-98F6-EA87C13974C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593643F8-DF44-492C-98F6-EA87C13974C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
