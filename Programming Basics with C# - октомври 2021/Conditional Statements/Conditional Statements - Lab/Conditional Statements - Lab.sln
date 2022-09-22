@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Greater Number", "T02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03. Even or Odd", "T03. Even or Odd\T03. Even or Odd.csproj", "{E7F7BDCE-4030-4062-A322-AF84639DEA47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04. Password Guess", "T04. Password Guess\T04. Password Guess.csproj", "{79617D54-4F24-4E9B-96C8-4CDD61BD062E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E7F7BDCE-4030-4062-A322-AF84639DEA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7F7BDCE-4030-4062-A322-AF84639DEA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7F7BDCE-4030-4062-A322-AF84639DEA47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79617D54-4F24-4E9B-96C8-4CDD61BD062E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79617D54-4F24-4E9B-96C8-4CDD61BD062E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79617D54-4F24-4E9B-96C8-4CDD61BD062E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79617D54-4F24-4E9B-96C8-4CDD61BD062E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
