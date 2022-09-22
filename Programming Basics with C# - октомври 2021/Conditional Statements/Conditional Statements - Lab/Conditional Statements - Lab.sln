@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05. Number 100 to 200", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06. Speed Info", "T06. Speed Info\T06. Speed Info.csproj", "{414A5968-388A-43AC-A68D-A70C111FD0B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07. Area of Figures", "T07. Area of Figures\T07. Area of Figures.csproj", "{DE0E68B0-99AF-4E12-8B23-AC4727A76F9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{414A5968-388A-43AC-A68D-A70C111FD0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{414A5968-388A-43AC-A68D-A70C111FD0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{414A5968-388A-43AC-A68D-A70C111FD0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE0E68B0-99AF-4E12-8B23-AC4727A76F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0E68B0-99AF-4E12-8B23-AC4727A76F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0E68B0-99AF-4E12-8B23-AC4727A76F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0E68B0-99AF-4E12-8B23-AC4727A76F9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
