@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T10. Invalid Number", "T10.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T11. Fruit Shop", "T11. Fruit Shop\T11. Fruit Shop.csproj", "{1F897D82-EF9D-457C-89B6-4E0819F90D75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12. Trade Commissions", "T12. Trade Commissions\T12. Trade Commissions.csproj", "{3CA0E1AA-21ED-41FB-BD3A-276E3A26D7B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{1F897D82-EF9D-457C-89B6-4E0819F90D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F897D82-EF9D-457C-89B6-4E0819F90D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F897D82-EF9D-457C-89B6-4E0819F90D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA0E1AA-21ED-41FB-BD3A-276E3A26D7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA0E1AA-21ED-41FB-BD3A-276E3A26D7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA0E1AA-21ED-41FB-BD3A-276E3A26D7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA0E1AA-21ED-41FB-BD3A-276E3A26D7B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
