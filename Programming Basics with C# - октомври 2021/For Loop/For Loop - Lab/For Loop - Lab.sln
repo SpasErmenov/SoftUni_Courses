@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08. Number sequence", "T08
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T09. Left and Right Sum", "T09. Left and Right Sum\T09. Left and Right Sum.csproj", "{1181574E-1CDD-43DC-8012-0B74A67DDC96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T10. Odd Even Sum", "T10. Odd Even Sum\T10. Odd Even Sum.csproj", "{D0730E74-527D-40C4-9023-5000133286D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1181574E-1CDD-43DC-8012-0B74A67DDC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1181574E-1CDD-43DC-8012-0B74A67DDC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1181574E-1CDD-43DC-8012-0B74A67DDC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0730E74-527D-40C4-9023-5000133286D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0730E74-527D-40C4-9023-5000133286D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0730E74-527D-40C4-9023-5000133286D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0730E74-527D-40C4-9023-5000133286D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
