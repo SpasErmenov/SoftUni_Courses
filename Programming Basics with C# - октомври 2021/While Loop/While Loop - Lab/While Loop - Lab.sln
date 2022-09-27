@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Password", "T02. Passw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03. Sum Numbers", "T03. Sum Numbers\T03. Sum Numbers.csproj", "{21981B92-156A-4D3B-84DF-3EAFCC97201E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04. Sequence 2k+1", "T04. Sequence 2k+1\T04. Sequence 2k+1.csproj", "{7C143459-FCC0-4637-BE9C-0B7C9388DABE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{21981B92-156A-4D3B-84DF-3EAFCC97201E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21981B92-156A-4D3B-84DF-3EAFCC97201E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21981B92-156A-4D3B-84DF-3EAFCC97201E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C143459-FCC0-4637-BE9C-0B7C9388DABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C143459-FCC0-4637-BE9C-0B7C9388DABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C143459-FCC0-4637-BE9C-0B7C9388DABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C143459-FCC0-4637-BE9C-0B7C9388DABE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
