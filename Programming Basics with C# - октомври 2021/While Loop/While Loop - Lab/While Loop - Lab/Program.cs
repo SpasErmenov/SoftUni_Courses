@@ -6,7 +6,17 @@ namespace While_Loop___Lab
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            while (true)
+            {
+                string name = Console.ReadLine();
+
+
+                if (name == "Stop")
+                {
+                    break;
+                }
+                Console.WriteLine(name);
+            }
         }
     }
 }
