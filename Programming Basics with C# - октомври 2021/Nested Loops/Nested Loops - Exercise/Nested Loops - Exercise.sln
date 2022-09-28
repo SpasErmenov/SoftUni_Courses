@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Equal Sums Even Odd Po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03. Sum Prime Non Prime", "T03. Sum Prime Non Prime\T03. Sum Prime Non Prime.csproj", "{25E4D467-600B-4FB3-B926-1BF7562F8C15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04. Train The Trainers", "T04. Train The Trainers\T04. Train The Trainers.csproj", "{F175C90D-4459-41D3-B60B-B3B369AA2A42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{25E4D467-600B-4FB3-B926-1BF7562F8C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25E4D467-600B-4FB3-B926-1BF7562F8C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25E4D467-600B-4FB3-B926-1BF7562F8C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F175C90D-4459-41D3-B60B-B3B369AA2A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F175C90D-4459-41D3-B60B-B3B369AA2A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F175C90D-4459-41D3-B60B-B3B369AA2A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F175C90D-4459-41D3-B60B-B3B369AA2A42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
