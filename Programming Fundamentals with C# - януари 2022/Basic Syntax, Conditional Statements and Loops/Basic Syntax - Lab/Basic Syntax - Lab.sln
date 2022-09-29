@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Syntax - Lab", "Basic Syntax - Lab\Basic Syntax - Lab.csproj", "{938F02EA-A0BD-4574-8D51-9DF6DDC39367}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Passed", "T02. Passed\T02. Passed.csproj", "{0DA72B80-6F76-4E48-B6CD-EA70B3BC7ADA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{938F02EA-A0BD-4574-8D51-9DF6DDC39367}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{938F02EA-A0BD-4574-8D51-9DF6DDC39367}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{938F02EA-A0BD-4574-8D51-9DF6DDC39367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA72B80-6F76-4E48-B6CD-EA70B3BC7ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA72B80-6F76-4E48-B6CD-EA70B3BC7ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA72B80-6F76-4E48-B6CD-EA70B3BC7ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA72B80-6F76-4E48-B6CD-EA70B3BC7ADA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
