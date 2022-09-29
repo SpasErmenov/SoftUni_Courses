@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T10. Multiplication Table",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T11. Multiplication Table 2.0", "T11. Multiplication Table 2.0\T11. Multiplication Table 2.0.csproj", "{A71D9E5D-5FFA-4FC0-9AE0-417298EE13D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12. Even Number", "T12. Even Number\T12. Even Number.csproj", "{F28CC640-ADB4-4788-A51B-EA0F837FEE1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A71D9E5D-5FFA-4FC0-9AE0-417298EE13D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A71D9E5D-5FFA-4FC0-9AE0-417298EE13D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A71D9E5D-5FFA-4FC0-9AE0-417298EE13D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28CC640-ADB4-4788-A51B-EA0F837FEE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28CC640-ADB4-4788-A51B-EA0F837FEE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28CC640-ADB4-4788-A51B-EA0F837FEE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28CC640-ADB4-4788-A51B-EA0F837FEE1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
