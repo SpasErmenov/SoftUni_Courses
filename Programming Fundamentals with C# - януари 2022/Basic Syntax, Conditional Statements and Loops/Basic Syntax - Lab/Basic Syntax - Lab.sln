@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Syntax - Lab", "Basic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Passed", "T02. Passed\T02. Passed.csproj", "{0DA72B80-6F76-4E48-B6CD-EA70B3BC7ADA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03. Passed or Failed", "T03. Passed or Failed\T03. Passed or Failed.csproj", "{40B45265-9FC0-4F97-A71E-B1D51897422A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0DA72B80-6F76-4E48-B6CD-EA70B3BC7ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DA72B80-6F76-4E48-B6CD-EA70B3BC7ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DA72B80-6F76-4E48-B6CD-EA70B3BC7ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B45265-9FC0-4F97-A71E-B1D51897422A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B45265-9FC0-4F97-A71E-B1D51897422A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B45265-9FC0-4F97-A71E-B1D51897422A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B45265-9FC0-4F97-A71E-B1D51897422A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
