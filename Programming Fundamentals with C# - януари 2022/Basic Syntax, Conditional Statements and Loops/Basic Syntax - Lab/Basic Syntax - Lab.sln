@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Passed", "T02. Passed\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03. Passed or Failed", "T03. Passed or Failed\T03. Passed or Failed.csproj", "{40B45265-9FC0-4F97-A71E-B1D51897422A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04. Back In 30 Minutes", "T04. Back In 30 Minutes\T04. Back In 30 Minutes.csproj", "{E6DA924D-CE42-49CB-AC4D-FE59727A7E1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{40B45265-9FC0-4F97-A71E-B1D51897422A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40B45265-9FC0-4F97-A71E-B1D51897422A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40B45265-9FC0-4F97-A71E-B1D51897422A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6DA924D-CE42-49CB-AC4D-FE59727A7E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6DA924D-CE42-49CB-AC4D-FE59727A7E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6DA924D-CE42-49CB-AC4D-FE59727A7E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6DA924D-CE42-49CB-AC4D-FE59727A7E1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
