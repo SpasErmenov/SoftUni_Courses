@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06. Foreign Languages", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07. Theatre Promotion", "T07. Theatre Promotion\T07. Theatre Promotion.csproj", "{C295B963-92C4-4553-B9F9-EC840AC89A42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08. Divisible by 3", "T08. Divisible by 3\T08. Divisible by 3.csproj", "{5848D560-FD35-4B63-AD14-59E7D2D1F381}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C295B963-92C4-4553-B9F9-EC840AC89A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C295B963-92C4-4553-B9F9-EC840AC89A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C295B963-92C4-4553-B9F9-EC840AC89A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5848D560-FD35-4B63-AD14-59E7D2D1F381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5848D560-FD35-4B63-AD14-59E7D2D1F381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5848D560-FD35-4B63-AD14-59E7D2D1F381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5848D560-FD35-4B63-AD14-59E7D2D1F381}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
