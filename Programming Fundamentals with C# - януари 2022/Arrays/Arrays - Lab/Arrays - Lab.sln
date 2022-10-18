@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays - Lab", "Arrays - Lab\Arrays - Lab.csproj", "{BAE4A365-CA84-44B2-A09B-412816D47806}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Print Numbers in Reverse Order", "T02. Print Numbers in Reverse Order\T02. Print Numbers in Reverse Order.csproj", "{6AF8025F-0427-4EB1-A819-9D021D8FCE3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BAE4A365-CA84-44B2-A09B-412816D47806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAE4A365-CA84-44B2-A09B-412816D47806}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAE4A365-CA84-44B2-A09B-412816D47806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF8025F-0427-4EB1-A819-9D021D8FCE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF8025F-0427-4EB1-A819-9D021D8FCE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF8025F-0427-4EB1-A819-9D021D8FCE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF8025F-0427-4EB1-A819-9D021D8FCE3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
