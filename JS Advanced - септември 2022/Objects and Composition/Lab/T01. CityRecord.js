@@ -5,5 +5,3 @@ function solve(name, population, treasury){
         treasury
     };
 }
-
-solve('Tortuga', 7000, 15000);

@@ -1,12 +1,10 @@
 function solve(name, population, treasury){
-    let obj = {
+    var obj = {
         oName: name,
         oPop: population,
         oTrea: treasury
     }
-    console.log(obj.oName)
-    console.log(obj.oPop)
-    console.log(obj.oTrea)
+    return obj;
 }
-
-solve('Tortuga', 7000, 15000)
+console.log(solve('Tortuga', 7000, 15000).oName)
+solve('Tortuga', 7000, 15000);
