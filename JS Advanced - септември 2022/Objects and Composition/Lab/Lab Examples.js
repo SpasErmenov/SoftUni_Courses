@@ -1,10 +1,21 @@
-function solve(name, population, treasury){
-    var obj = {
-        oName: name,
-        oPop: population,
-        oTrea: treasury
+function solve(param){
+
+    let count = 0;
+
+    const parser = {
+        increment() { count++; },
+        decrement() { count--; },
+        reset() {count = 0; }
+    
+    };
+
+    for(let command of param){
+        parser[command]();
     }
-    return obj;
+
+    console.log(count);
 }
-console.log(solve('Tortuga', 7000, 15000).oName)
-solve('Tortuga', 7000, 15000);
+
+
+
+solve(['increment']);

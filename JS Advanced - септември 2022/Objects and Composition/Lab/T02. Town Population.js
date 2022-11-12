@@ -21,7 +21,6 @@ function solve(input){
         }
 
         for(let town in sorted){
-            console.log(sorted[town])
             console.log(`${town} : ${sorted[town]}`);
         }
 
