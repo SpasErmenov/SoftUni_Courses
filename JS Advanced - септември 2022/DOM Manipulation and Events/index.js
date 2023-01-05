@@ -13,3 +13,14 @@ function addItem() {
 
     text.value = '';
 }
+//events 
+document.getElementById('firstButton').addEventListener('click', () => {
+    console.log('I am clicked!');
+});
+
+document.getElementById('justClick').addEventListener("click", (event) => {
+
+    let button = event.target;
+    button.textContent = Number(button.textContent) + 1;
+    //console.log(button.textContent);
+});
