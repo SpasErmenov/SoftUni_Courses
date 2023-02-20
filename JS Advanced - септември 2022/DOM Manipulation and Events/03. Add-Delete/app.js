@@ -11,6 +11,7 @@ function addItem() {
 
     deleteBtn.addEventListener('click', function(event) {
         li.remove();
+        
     });
 
     li.append(deleteBtn);
