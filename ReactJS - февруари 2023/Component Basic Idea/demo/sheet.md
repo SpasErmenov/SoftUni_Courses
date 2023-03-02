@@ -10,3 +10,6 @@
 3. Props is short for properties
     * Are received from above(parent)
     * Immutable
+4. State Hook
+    * useState (only for functional components) The class compenent killer :D
+    
